@@ -58,7 +58,6 @@ Jira, Qase.io, SQL, Postman, Swagger, Trello, Chrome DevTools <br>
 
 
 ## Контактная информация
--Email: Sanek_keeper97@mail.ru
--Vk: https://vk.com/a_vlasov12
--Tg: https://t.me/avlasov12
-
+- Email: Sanek_keeper97@mail.ru
+- Vk: https://vk.com/a_vlasov12
+- Tg: https://t.me/avlasov12
