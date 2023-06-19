@@ -46,8 +46,7 @@ Jira, Qase.io, Сitechco, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
->  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="https://alexsandr.atlassian.net/wiki/spaces/~5f0ee9811084620015b7697e/pages/33180/1+2">Ссылка на проект</a>
   > <p> логин: sanek_keeper97@mail.ru  </p>
 > <p> пароль: Qyvyharab_1997 </p>
  
