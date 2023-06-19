@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии
-Jira, Qase.io, SQL, Postman, Swagger, Trello, Chrome DevTools <br>
+Jira, Qase.io, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 
 
 
