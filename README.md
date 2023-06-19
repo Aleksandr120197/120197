@@ -23,7 +23,7 @@ Jira, Qase.io, Сitechco, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="https://alexsandr.atlassian.net/wiki/spaces/~5f0ee9811084620015b7697e/pages/33180/1+2">Ссылка на проект</a>
+> <a href="https://github.com/Aleksandr120197/120197/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961">Ссылка на проект</a>
 
 > <p> логин: sanek_keeper97@mail.ru  </p>
 > <p> пароль: Qyvyharab_1997 </p>
