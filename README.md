@@ -28,10 +28,8 @@ Jira, Qase.io, Сitechco, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 
 
 
-> <a href="https://alexsandr.atlassian.net/wiki/spaces/~5f0ee9811084620015b7697e/pages/33180/1+2">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/12drbbKDLsozpi9xAFuGG3YmI0O8FDTOo?usp=drive_link">Ссылка на проект</a>
 
-> <p> логин: sanek_keeper97@mail.ru  </p>
-> <p> пароль: Qyvyharab_1997 </p>
  
  <p>Итог:<p>
 Были применены следующие виды тестирования: smoke-тестирование, функциональное тестирование, приемочное тестирование.
@@ -51,9 +49,8 @@ Jira, Qase.io, Сitechco, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 Задача №3. Дополнить отчет о тестировании. <br>
 
 
-> <a href="https://alexsandr.atlassian.net/wiki/spaces/~5f0ee9811084620015b7697e/pages/33180/1+2">Ссылка на проект</a>
-  > <p> логин: sanek_keeper97@mail.ru  </p>
-> <p> пароль: Qyvyharab_1997 </p>
+> <a href="https://drive.google.com/drive/folders/1uSPDQW4ERpafzQ9BR_47bdJo2tNSnlR-?usp=sharing">Ссылка на проект</a>
+ 
  
   <p>Итог:<p>
   Были применены следующие виды тестирования: тестирование API.
