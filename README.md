@@ -49,7 +49,7 @@ Jira, Qase.io, Сitechco, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 Задача №3. Дополнить отчет о тестировании. <br>
 
 
-> <a href="https://drive.google.com/drive/folders/1uSPDQW4ERpafzQ9BR_47bdJo2tNSnlR-?usp=sharing">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1E6iJOwEb-f94xmmpLQ6bTiYuIH5XyTlg/edit">Ссылка на проект</a>
  
  
   <p>Итог:<p>
