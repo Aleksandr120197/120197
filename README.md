@@ -28,7 +28,7 @@ Jira, Qase.io, Сitechco, SQL, Postman, Swagger, Trello, Chrome DevTools. <br>
 
 
 
-> <a href="https://drive.google.com/drive/folders/12drbbKDLsozpi9xAFuGG3YmI0O8FDTOo?usp=drive_link">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1BpFXAPlsPEbuN9nF9nDf0kZr0EFOZGXDsqG84mtMRgY/edit#heading=h.7123zkmz0rkx">Ссылка на проект</a>
 
  
  <p>Итог:<p>
